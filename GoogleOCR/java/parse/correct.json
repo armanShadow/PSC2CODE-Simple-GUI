@@ -1,0 +1,15 @@
+{
+    "uncorrected": [
+        "lesson1", 
+        "Bank_DEF", 
+        "BANK_DEF", 
+        "Bank_ABC", 
+        "Bank_XYZ", 
+        "BANK_XYZ"
+    ], 
+    "len_words": 0, 
+    "total_correct": 24, 
+    "words": {}, 
+    "corrected2": [], 
+    "len_uncorrected": 6
+}

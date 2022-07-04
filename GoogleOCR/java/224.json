@@ -1,0 +1,3130 @@
+{
+    "responses": [
+        {
+            "textAnnotations": [
+                {
+                    "locale": "en", 
+                    "description": "package lesson1;\npublic class MyClass {\n}\npublic static void main(String[] args) {\n}", 
+                    "boundingPoly": {
+                        "vertices": [
+                            {
+                                "y": 5
+                            }, 
+                            {
+                                "y": 5, 
+                                "x": 532
+                            }, 
+                            {
+                                "y": 197, 
+                                "x": 532
+                            }, 
+                            {
+                                "y": 197
+                            }
+                        ]
+                    }
+                }, 
+                {
+                    "description": "package", 
+                    "boundingPoly": {
+                        "vertices": [
+                            {
+                                "y": 5, 
+                                "x": 4
+                            }, 
+                            {
+                                "y": 5, 
+                                "x": 85
+                            }, 
+                            {
+                                "y": 23, 
+                                "x": 85
+                            }, 
+                            {
+                                "y": 23, 
+                                "x": 4
+                            }
+                        ]
+                    }
+                }, 
+                {
+                    "description": "lesson1", 
+                    "boundingPoly": {
+                        "vertices": [
+                            {
+                                "y": 5, 
+                                "x": 100
+                            }, 
+                            {
+                                "y": 5, 
+                                "x": 182
+                            }, 
+                            {
+                                "y": 23, 
+                                "x": 182
+                            }, 
+                            {
+                                "y": 23, 
+                                "x": 100
+                            }
+                        ]
+                    }
+                }, 
+                {
+                    "description": ";", 
+                    "boundingPoly": {
+                        "vertices": [
+                            {
+                                "y": 5, 
+                                "x": 185
+                            }, 
+                            {
+                                "y": 5, 
+                                "x": 192
+                            }, 
+                            {
+                                "y": 23, 
+                                "x": 192
+                            }, 
+                            {
+                                "y": 23, 
+                                "x": 185
+                            }
+                        ]
+                    }
+                }, 
+                {
+                    "description": "public", 
+                    "boundingPoly": {
+                        "vertices": [
+                            {
+                                "y": 55, 
+                                "x": 4
+                            }, 
+                            {
+                                "y": 55, 
+                                "x": 73
+                            }, 
+                            {
+                                "y": 73, 
+                                "x": 73
+                            }, 
+                            {
+                                "y": 73, 
+                                "x": 4
+                            }
+                        ]
+                    }
+                }, 
+                {
+                    "description": "class", 
+                    "boundingPoly": {
+                        "vertices": [
+                            {
+                                "y": 55, 
+                                "x": 88
+                            }, 
+                            {
+                                "y": 55, 
+                                "x": 145
+                            }, 
+                            {
+                                "y": 73, 
+                                "x": 145
+                            }, 
+                            {
+                                "y": 73, 
+                                "x": 88
+                            }
+                        ]
+                    }
+                }, 
+                {
+                    "description": "MyClass", 
+                    "boundingPoly": {
+                        "vertices": [
+                            {
+                                "y": 55, 
+                                "x": 159
+                            }, 
+                            {
+                                "y": 55, 
+                                "x": 242
+                            }, 
+                            {
+                                "y": 73, 
+                                "x": 242
+                            }, 
+                            {
+                                "y": 73, 
+                                "x": 159
+                            }
+                        ]
+                    }
+                }, 
+                {
+                    "description": "{", 
+                    "boundingPoly": {
+                        "vertices": [
+                            {
+                                "y": 55, 
+                                "x": 257
+                            }, 
+                            {
+                                "y": 55, 
+                                "x": 266
+                            }, 
+                            {
+                                "y": 73, 
+                                "x": 266
+                            }, 
+                            {
+                                "y": 73, 
+                                "x": 257
+                            }
+                        ]
+                    }
+                }, 
+                {
+                    "description": "}", 
+                    "boundingPoly": {
+                        "vertices": [
+                            {
+                                "y": 178, 
+                                "x": 1
+                            }, 
+                            {
+                                "y": 178, 
+                                "x": 15
+                            }, 
+                            {
+                                "y": 197, 
+                                "x": 14
+                            }, 
+                            {
+                                "y": 197
+                            }
+                        ]
+                    }
+                }, 
+                {
+                    "description": "public", 
+                    "boundingPoly": {
+                        "vertices": [
+                            {
+                                "y": 79, 
+                                "x": 53
+                            }, 
+                            {
+                                "y": 79, 
+                                "x": 122
+                            }, 
+                            {
+                                "y": 99, 
+                                "x": 122
+                            }, 
+                            {
+                                "y": 99, 
+                                "x": 53
+                            }
+                        ]
+                    }
+                }, 
+                {
+                    "description": "static", 
+                    "boundingPoly": {
+                        "vertices": [
+                            {
+                                "y": 79, 
+                                "x": 136
+                            }, 
+                            {
+                                "y": 79, 
+                                "x": 206
+                            }, 
+                            {
+                                "y": 99, 
+                                "x": 206
+                            }, 
+                            {
+                                "y": 99, 
+                                "x": 136
+                            }
+                        ]
+                    }
+                }, 
+                {
+                    "description": "void", 
+                    "boundingPoly": {
+                        "vertices": [
+                            {
+                                "y": 79, 
+                                "x": 220
+                            }, 
+                            {
+                                "y": 79, 
+                                "x": 265
+                            }, 
+                            {
+                                "y": 99, 
+                                "x": 265
+                            }, 
+                            {
+                                "y": 99, 
+                                "x": 220
+                            }
+                        ]
+                    }
+                }, 
+                {
+                    "description": "main", 
+                    "boundingPoly": {
+                        "vertices": [
+                            {
+                                "y": 79, 
+                                "x": 280
+                            }, 
+                            {
+                                "y": 79, 
+                                "x": 327
+                            }, 
+                            {
+                                "y": 99, 
+                                "x": 327
+                            }, 
+                            {
+                                "y": 99, 
+                                "x": 280
+                            }
+                        ]
+                    }
+                }, 
+                {
+                    "description": "(", 
+                    "boundingPoly": {
+                        "vertices": [
+                            {
+                                "y": 79, 
+                                "x": 331
+                            }, 
+                            {
+                                "y": 79, 
+                                "x": 336
+                            }, 
+                            {
+                                "y": 99, 
+                                "x": 336
+                            }, 
+                            {
+                                "y": 99, 
+                                "x": 331
+                            }
+                        ]
+                    }
+                }, 
+                {
+                    "description": "String", 
+                    "boundingPoly": {
+                        "vertices": [
+                            {
+                                "y": 79, 
+                                "x": 342
+                            }, 
+                            {
+                                "y": 79, 
+                                "x": 410
+                            }, 
+                            {
+                                "y": 99, 
+                                "x": 410
+                            }, 
+                            {
+                                "y": 99, 
+                                "x": 342
+                            }
+                        ]
+                    }
+                }, 
+                {
+                    "description": "[", 
+                    "boundingPoly": {
+                        "vertices": [
+                            {
+                                "y": 79, 
+                                "x": 416
+                            }, 
+                            {
+                                "y": 79, 
+                                "x": 419
+                            }, 
+                            {
+                                "y": 99, 
+                                "x": 419
+                            }, 
+                            {
+                                "y": 99, 
+                                "x": 416
+                            }
+                        ]
+                    }
+                }, 
+                {
+                    "description": "]", 
+                    "boundingPoly": {
+                        "vertices": [
+                            {
+                                "y": 79, 
+                                "x": 427
+                            }, 
+                            {
+                                "y": 79, 
+                                "x": 432
+                            }, 
+                            {
+                                "y": 99, 
+                                "x": 432
+                            }, 
+                            {
+                                "y": 99, 
+                                "x": 427
+                            }
+                        ]
+                    }
+                }, 
+                {
+                    "description": "args", 
+                    "boundingPoly": {
+                        "vertices": [
+                            {
+                                "y": 79, 
+                                "x": 450
+                            }, 
+                            {
+                                "y": 79, 
+                                "x": 494
+                            }, 
+                            {
+                                "y": 99, 
+                                "x": 494
+                            }, 
+                            {
+                                "y": 99, 
+                                "x": 450
+                            }
+                        ]
+                    }
+                }, 
+                {
+                    "description": ")", 
+                    "boundingPoly": {
+                        "vertices": [
+                            {
+                                "y": 79, 
+                                "x": 499
+                            }, 
+                            {
+                                "y": 79, 
+                                "x": 505
+                            }, 
+                            {
+                                "y": 99, 
+                                "x": 505
+                            }, 
+                            {
+                                "y": 99, 
+                                "x": 499
+                            }
+                        ]
+                    }
+                }, 
+                {
+                    "description": "{", 
+                    "boundingPoly": {
+                        "vertices": [
+                            {
+                                "y": 79, 
+                                "x": 521
+                            }, 
+                            {
+                                "y": 79, 
+                                "x": 532
+                            }, 
+                            {
+                                "y": 99, 
+                                "x": 532
+                            }, 
+                            {
+                                "y": 99, 
+                                "x": 521
+                            }
+                        ]
+                    }
+                }, 
+                {
+                    "description": "}", 
+                    "boundingPoly": {
+                        "vertices": [
+                            {
+                                "y": 129, 
+                                "x": 49
+                            }, 
+                            {
+                                "y": 129, 
+                                "x": 65
+                            }, 
+                            {
+                                "y": 148, 
+                                "x": 65
+                            }, 
+                            {
+                                "y": 148, 
+                                "x": 49
+                            }
+                        ]
+                    }
+                }
+            ], 
+            "fullTextAnnotation": {
+                "text": "package lesson1;\npublic class MyClass {\n}\npublic static void main(String[] args) {\n}", 
+                "pages": [
+                    {
+                        "width": 896, 
+                        "confidence": 0.97874314, 
+                        "property": {
+                            "detectedLanguages": [
+                                {
+                                    "languageCode": "en", 
+                                    "confidence": 0.75997466
+                                }, 
+                                {
+                                    "languageCode": "hr", 
+                                    "confidence": 0.21213093
+                                }
+                            ]
+                        }, 
+                        "blocks": [
+                            {
+                                "boundingBox": {
+                                    "vertices": [
+                                        {
+                                            "y": 5, 
+                                            "x": 4
+                                        }, 
+                                        {
+                                            "y": 5, 
+                                            "x": 266
+                                        }, 
+                                        {
+                                            "y": 73, 
+                                            "x": 266
+                                        }, 
+                                        {
+                                            "y": 73, 
+                                            "x": 4
+                                        }
+                                    ]
+                                }, 
+                                "blockType": "TEXT", 
+                                "confidence": 0.9842888, 
+                                "paragraphs": [
+                                    {
+                                        "boundingBox": {
+                                            "vertices": [
+                                                {
+                                                    "y": 5, 
+                                                    "x": 4
+                                                }, 
+                                                {
+                                                    "y": 5, 
+                                                    "x": 192
+                                                }, 
+                                                {
+                                                    "y": 23, 
+                                                    "x": 192
+                                                }, 
+                                                {
+                                                    "y": 23, 
+                                                    "x": 4
+                                                }
+                                            ]
+                                        }, 
+                                        "confidence": 0.986474, 
+                                        "words": [
+                                            {
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "y": 5, 
+                                                            "x": 4
+                                                        }, 
+                                                        {
+                                                            "y": 5, 
+                                                            "x": 85
+                                                        }, 
+                                                        {
+                                                            "y": 23, 
+                                                            "x": 85
+                                                        }, 
+                                                        {
+                                                            "y": 23, 
+                                                            "x": 4
+                                                        }
+                                                    ]
+                                                }, 
+                                                "symbols": [
+                                                    {
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "y": 5, 
+                                                                    "x": 4
+                                                                }, 
+                                                                {
+                                                                    "y": 5, 
+                                                                    "x": 14
+                                                                }, 
+                                                                {
+                                                                    "y": 23, 
+                                                                    "x": 14
+                                                                }, 
+                                                                {
+                                                                    "y": 23, 
+                                                                    "x": 4
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        "text": "p", 
+                                                        "confidence": 0.9911177
+                                                    }, 
+                                                    {
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "y": 5, 
+                                                                    "x": 15
+                                                                }, 
+                                                                {
+                                                                    "y": 5, 
+                                                                    "x": 25
+                                                                }, 
+                                                                {
+                                                                    "y": 23, 
+                                                                    "x": 25
+                                                                }, 
+                                                                {
+                                                                    "y": 23, 
+                                                                    "x": 15
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        "text": "a", 
+                                                        "confidence": 0.9909665
+                                                    }, 
+                                                    {
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "y": 5, 
+                                                                    "x": 28
+                                                                }, 
+                                                                {
+                                                                    "y": 5, 
+                                                                    "x": 38
+                                                                }, 
+                                                                {
+                                                                    "y": 23, 
+                                                                    "x": 38
+                                                                }, 
+                                                                {
+                                                                    "y": 23, 
+                                                                    "x": 28
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        "text": "c", 
+                                                        "confidence": 0.99467486
+                                                    }, 
+                                                    {
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "y": 5, 
+                                                                    "x": 40
+                                                                }, 
+                                                                {
+                                                                    "y": 5, 
+                                                                    "x": 50
+                                                                }, 
+                                                                {
+                                                                    "y": 23, 
+                                                                    "x": 50
+                                                                }, 
+                                                                {
+                                                                    "y": 23, 
+                                                                    "x": 40
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        "text": "k", 
+                                                        "confidence": 0.9928306
+                                                    }, 
+                                                    {
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "y": 5, 
+                                                                    "x": 51
+                                                                }, 
+                                                                {
+                                                                    "y": 5, 
+                                                                    "x": 61
+                                                                }, 
+                                                                {
+                                                                    "y": 23, 
+                                                                    "x": 61
+                                                                }, 
+                                                                {
+                                                                    "y": 23, 
+                                                                    "x": 51
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        "text": "a", 
+                                                        "confidence": 0.99375796
+                                                    }, 
+                                                    {
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "y": 5, 
+                                                                    "x": 63
+                                                                }, 
+                                                                {
+                                                                    "y": 5, 
+                                                                    "x": 74
+                                                                }, 
+                                                                {
+                                                                    "y": 23, 
+                                                                    "x": 74
+                                                                }, 
+                                                                {
+                                                                    "y": 23, 
+                                                                    "x": 63
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        "text": "g", 
+                                                        "confidence": 0.9952122
+                                                    }, 
+                                                    {
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "y": 5, 
+                                                                    "x": 75
+                                                                }, 
+                                                                {
+                                                                    "y": 5, 
+                                                                    "x": 85
+                                                                }, 
+                                                                {
+                                                                    "y": 23, 
+                                                                    "x": 85
+                                                                }, 
+                                                                {
+                                                                    "y": 23, 
+                                                                    "x": 75
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        "text": "e", 
+                                                        "confidence": 0.9957167, 
+                                                        "property": {
+                                                            "detectedBreak": {
+                                                                "type": "SPACE"
+                                                            }
+                                                        }
+                                                    }
+                                                ], 
+                                                "confidence": 0.99346805, 
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "hr", 
+                                                            "confidence": 1
+                                                        }
+                                                    ]
+                                                }
+                                            }, 
+                                            {
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "y": 5, 
+                                                            "x": 100
+                                                        }, 
+                                                        {
+                                                            "y": 5, 
+                                                            "x": 182
+                                                        }, 
+                                                        {
+                                                            "y": 23, 
+                                                            "x": 182
+                                                        }, 
+                                                        {
+                                                            "y": 23, 
+                                                            "x": 100
+                                                        }
+                                                    ]
+                                                }, 
+                                                "symbols": [
+                                                    {
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "y": 5, 
+                                                                    "x": 100
+                                                                }, 
+                                                                {
+                                                                    "y": 5, 
+                                                                    "x": 108
+                                                                }, 
+                                                                {
+                                                                    "y": 23, 
+                                                                    "x": 108
+                                                                }, 
+                                                                {
+                                                                    "y": 23, 
+                                                                    "x": 100
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        "text": "l", 
+                                                        "confidence": 0.9837107
+                                                    }, 
+                                                    {
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "y": 5, 
+                                                                    "x": 112
+                                                                }, 
+                                                                {
+                                                                    "y": 5, 
+                                                                    "x": 122
+                                                                }, 
+                                                                {
+                                                                    "y": 23, 
+                                                                    "x": 122
+                                                                }, 
+                                                                {
+                                                                    "y": 23, 
+                                                                    "x": 112
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        "text": "e", 
+                                                        "confidence": 0.9946429
+                                                    }, 
+                                                    {
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "y": 5, 
+                                                                    "x": 125
+                                                                }, 
+                                                                {
+                                                                    "y": 5, 
+                                                                    "x": 134
+                                                                }, 
+                                                                {
+                                                                    "y": 23, 
+                                                                    "x": 134
+                                                                }, 
+                                                                {
+                                                                    "y": 23, 
+                                                                    "x": 125
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        "text": "s", 
+                                                        "confidence": 0.99440664
+                                                    }, 
+                                                    {
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "y": 5, 
+                                                                    "x": 136
+                                                                }, 
+                                                                {
+                                                                    "y": 5, 
+                                                                    "x": 145
+                                                                }, 
+                                                                {
+                                                                    "y": 23, 
+                                                                    "x": 145
+                                                                }, 
+                                                                {
+                                                                    "y": 23, 
+                                                                    "x": 136
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        "text": "s", 
+                                                        "confidence": 0.9964487
+                                                    }, 
+                                                    {
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "y": 5, 
+                                                                    "x": 148
+                                                                }, 
+                                                                {
+                                                                    "y": 5, 
+                                                                    "x": 159
+                                                                }, 
+                                                                {
+                                                                    "y": 23, 
+                                                                    "x": 159
+                                                                }, 
+                                                                {
+                                                                    "y": 23, 
+                                                                    "x": 148
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        "text": "o", 
+                                                        "confidence": 0.98725075
+                                                    }, 
+                                                    {
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "y": 5, 
+                                                                    "x": 160
+                                                                }, 
+                                                                {
+                                                                    "y": 5, 
+                                                                    "x": 169
+                                                                }, 
+                                                                {
+                                                                    "y": 23, 
+                                                                    "x": 169
+                                                                }, 
+                                                                {
+                                                                    "y": 23, 
+                                                                    "x": 160
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        "text": "n", 
+                                                        "confidence": 0.97891045
+                                                    }, 
+                                                    {
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "y": 5, 
+                                                                    "x": 172
+                                                                }, 
+                                                                {
+                                                                    "y": 5, 
+                                                                    "x": 182
+                                                                }, 
+                                                                {
+                                                                    "y": 23, 
+                                                                    "x": 182
+                                                                }, 
+                                                                {
+                                                                    "y": 23, 
+                                                                    "x": 172
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        "text": "1", 
+                                                        "confidence": 0.929589
+                                                    }
+                                                ], 
+                                                "confidence": 0.9807084, 
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "hr", 
+                                                            "confidence": 1
+                                                        }
+                                                    ]
+                                                }
+                                            }, 
+                                            {
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "y": 5, 
+                                                            "x": 185
+                                                        }, 
+                                                        {
+                                                            "y": 5, 
+                                                            "x": 192
+                                                        }, 
+                                                        {
+                                                            "y": 23, 
+                                                            "x": 192
+                                                        }, 
+                                                        {
+                                                            "y": 23, 
+                                                            "x": 185
+                                                        }
+                                                    ]
+                                                }, 
+                                                "symbols": [
+                                                    {
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "y": 5, 
+                                                                    "x": 185
+                                                                }, 
+                                                                {
+                                                                    "y": 5, 
+                                                                    "x": 192
+                                                                }, 
+                                                                {
+                                                                    "y": 23, 
+                                                                    "x": 192
+                                                                }, 
+                                                                {
+                                                                    "y": 23, 
+                                                                    "x": 185
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        "text": ";", 
+                                                        "confidence": 0.9778739, 
+                                                        "property": {
+                                                            "detectedBreak": {
+                                                                "type": "LINE_BREAK"
+                                                            }
+                                                        }
+                                                    }
+                                                ], 
+                                                "confidence": 0.9778739, 
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "hr", 
+                                                            "confidence": 1
+                                                        }
+                                                    ]
+                                                }
+                                            }
+                                        ]
+                                    }, 
+                                    {
+                                        "boundingBox": {
+                                            "vertices": [
+                                                {
+                                                    "y": 55, 
+                                                    "x": 4
+                                                }, 
+                                                {
+                                                    "y": 55, 
+                                                    "x": 266
+                                                }, 
+                                                {
+                                                    "y": 73, 
+                                                    "x": 266
+                                                }, 
+                                                {
+                                                    "y": 73, 
+                                                    "x": 4
+                                                }
+                                            ]
+                                        }, 
+                                        "confidence": 0.98256373, 
+                                        "words": [
+                                            {
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "y": 55, 
+                                                            "x": 4
+                                                        }, 
+                                                        {
+                                                            "y": 55, 
+                                                            "x": 73
+                                                        }, 
+                                                        {
+                                                            "y": 73, 
+                                                            "x": 73
+                                                        }, 
+                                                        {
+                                                            "y": 73, 
+                                                            "x": 4
+                                                        }
+                                                    ]
+                                                }, 
+                                                "symbols": [
+                                                    {
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "y": 55, 
+                                                                    "x": 4
+                                                                }, 
+                                                                {
+                                                                    "y": 55, 
+                                                                    "x": 14
+                                                                }, 
+                                                                {
+                                                                    "y": 73, 
+                                                                    "x": 14
+                                                                }, 
+                                                                {
+                                                                    "y": 73, 
+                                                                    "x": 4
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        "text": "p", 
+                                                        "confidence": 0.96195614
+                                                    }, 
+                                                    {
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "y": 55, 
+                                                                    "x": 16
+                                                                }, 
+                                                                {
+                                                                    "y": 55, 
+                                                                    "x": 25
+                                                                }, 
+                                                                {
+                                                                    "y": 73, 
+                                                                    "x": 25
+                                                                }, 
+                                                                {
+                                                                    "y": 73, 
+                                                                    "x": 16
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        "text": "u", 
+                                                        "confidence": 0.9399726
+                                                    }, 
+                                                    {
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "y": 55, 
+                                                                    "x": 28
+                                                                }, 
+                                                                {
+                                                                    "y": 55, 
+                                                                    "x": 38
+                                                                }, 
+                                                                {
+                                                                    "y": 73, 
+                                                                    "x": 38
+                                                                }, 
+                                                                {
+                                                                    "y": 73, 
+                                                                    "x": 28
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        "text": "b", 
+                                                        "confidence": 0.9704462
+                                                    }, 
+                                                    {
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "y": 55, 
+                                                                    "x": 40
+                                                                }, 
+                                                                {
+                                                                    "y": 55, 
+                                                                    "x": 49
+                                                                }, 
+                                                                {
+                                                                    "y": 73, 
+                                                                    "x": 49
+                                                                }, 
+                                                                {
+                                                                    "y": 73, 
+                                                                    "x": 40
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        "text": "l", 
+                                                        "confidence": 0.9799522
+                                                    }, 
+                                                    {
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "y": 55, 
+                                                                    "x": 52
+                                                                }, 
+                                                                {
+                                                                    "y": 55, 
+                                                                    "x": 61
+                                                                }, 
+                                                                {
+                                                                    "y": 73, 
+                                                                    "x": 61
+                                                                }, 
+                                                                {
+                                                                    "y": 73, 
+                                                                    "x": 52
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        "text": "i", 
+                                                        "confidence": 0.99359566
+                                                    }, 
+                                                    {
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "y": 55, 
+                                                                    "x": 64
+                                                                }, 
+                                                                {
+                                                                    "y": 55, 
+                                                                    "x": 73
+                                                                }, 
+                                                                {
+                                                                    "y": 73, 
+                                                                    "x": 73
+                                                                }, 
+                                                                {
+                                                                    "y": 73, 
+                                                                    "x": 64
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        "text": "c", 
+                                                        "confidence": 0.99451196, 
+                                                        "property": {
+                                                            "detectedBreak": {
+                                                                "type": "SPACE"
+                                                            }
+                                                        }
+                                                    }
+                                                ], 
+                                                "confidence": 0.9734058, 
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "en", 
+                                                            "confidence": 1
+                                                        }
+                                                    ]
+                                                }
+                                            }, 
+                                            {
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "y": 55, 
+                                                            "x": 88
+                                                        }, 
+                                                        {
+                                                            "y": 55, 
+                                                            "x": 145
+                                                        }, 
+                                                        {
+                                                            "y": 73, 
+                                                            "x": 145
+                                                        }, 
+                                                        {
+                                                            "y": 73, 
+                                                            "x": 88
+                                                        }
+                                                    ]
+                                                }, 
+                                                "symbols": [
+                                                    {
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "y": 55, 
+                                                                    "x": 88
+                                                                }, 
+                                                                {
+                                                                    "y": 55, 
+                                                                    "x": 97
+                                                                }, 
+                                                                {
+                                                                    "y": 73, 
+                                                                    "x": 97
+                                                                }, 
+                                                                {
+                                                                    "y": 73, 
+                                                                    "x": 88
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        "text": "c", 
+                                                        "confidence": 0.9903166
+                                                    }, 
+                                                    {
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "y": 55, 
+                                                                    "x": 100
+                                                                }, 
+                                                                {
+                                                                    "y": 55, 
+                                                                    "x": 110
+                                                                }, 
+                                                                {
+                                                                    "y": 73, 
+                                                                    "x": 110
+                                                                }, 
+                                                                {
+                                                                    "y": 73, 
+                                                                    "x": 100
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        "text": "l", 
+                                                        "confidence": 0.99496216
+                                                    }, 
+                                                    {
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "y": 55, 
+                                                                    "x": 112
+                                                                }, 
+                                                                {
+                                                                    "y": 55, 
+                                                                    "x": 122
+                                                                }, 
+                                                                {
+                                                                    "y": 73, 
+                                                                    "x": 122
+                                                                }, 
+                                                                {
+                                                                    "y": 73, 
+                                                                    "x": 112
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        "text": "a", 
+                                                        "confidence": 0.9944988
+                                                    }, 
+                                                    {
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "y": 55, 
+                                                                    "x": 125
+                                                                }, 
+                                                                {
+                                                                    "y": 55, 
+                                                                    "x": 134
+                                                                }, 
+                                                                {
+                                                                    "y": 73, 
+                                                                    "x": 134
+                                                                }, 
+                                                                {
+                                                                    "y": 73, 
+                                                                    "x": 125
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        "text": "s", 
+                                                        "confidence": 0.99504846
+                                                    }, 
+                                                    {
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "y": 55, 
+                                                                    "x": 136
+                                                                }, 
+                                                                {
+                                                                    "y": 55, 
+                                                                    "x": 145
+                                                                }, 
+                                                                {
+                                                                    "y": 73, 
+                                                                    "x": 145
+                                                                }, 
+                                                                {
+                                                                    "y": 73, 
+                                                                    "x": 136
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        "text": "s", 
+                                                        "confidence": 0.99311113, 
+                                                        "property": {
+                                                            "detectedBreak": {
+                                                                "type": "SPACE"
+                                                            }
+                                                        }
+                                                    }
+                                                ], 
+                                                "confidence": 0.99358743, 
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "en", 
+                                                            "confidence": 1
+                                                        }
+                                                    ]
+                                                }
+                                            }, 
+                                            {
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "y": 55, 
+                                                            "x": 159
+                                                        }, 
+                                                        {
+                                                            "y": 55, 
+                                                            "x": 242
+                                                        }, 
+                                                        {
+                                                            "y": 73, 
+                                                            "x": 242
+                                                        }, 
+                                                        {
+                                                            "y": 73, 
+                                                            "x": 159
+                                                        }
+                                                    ]
+                                                }, 
+                                                "symbols": [
+                                                    {
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "y": 55, 
+                                                                    "x": 159
+                                                                }, 
+                                                                {
+                                                                    "y": 55, 
+                                                                    "x": 170
+                                                                }, 
+                                                                {
+                                                                    "y": 73, 
+                                                                    "x": 170
+                                                                }, 
+                                                                {
+                                                                    "y": 73, 
+                                                                    "x": 159
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        "text": "M", 
+                                                        "confidence": 0.9887762
+                                                    }, 
+                                                    {
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "y": 55, 
+                                                                    "x": 171
+                                                                }, 
+                                                                {
+                                                                    "y": 55, 
+                                                                    "x": 182
+                                                                }, 
+                                                                {
+                                                                    "y": 73, 
+                                                                    "x": 182
+                                                                }, 
+                                                                {
+                                                                    "y": 73, 
+                                                                    "x": 171
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        "text": "y", 
+                                                        "confidence": 0.988753
+                                                    }, 
+                                                    {
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "y": 55, 
+                                                                    "x": 185
+                                                                }, 
+                                                                {
+                                                                    "y": 55, 
+                                                                    "x": 194
+                                                                }, 
+                                                                {
+                                                                    "y": 73, 
+                                                                    "x": 194
+                                                                }, 
+                                                                {
+                                                                    "y": 73, 
+                                                                    "x": 185
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        "text": "C", 
+                                                        "confidence": 0.95292497
+                                                    }, 
+                                                    {
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "y": 55, 
+                                                                    "x": 197
+                                                                }, 
+                                                                {
+                                                                    "y": 55, 
+                                                                    "x": 206
+                                                                }, 
+                                                                {
+                                                                    "y": 73, 
+                                                                    "x": 206
+                                                                }, 
+                                                                {
+                                                                    "y": 73, 
+                                                                    "x": 197
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        "text": "l", 
+                                                        "confidence": 0.9909052
+                                                    }, 
+                                                    {
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "y": 55, 
+                                                                    "x": 208
+                                                                }, 
+                                                                {
+                                                                    "y": 55, 
+                                                                    "x": 218
+                                                                }, 
+                                                                {
+                                                                    "y": 73, 
+                                                                    "x": 218
+                                                                }, 
+                                                                {
+                                                                    "y": 73, 
+                                                                    "x": 208
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        "text": "a", 
+                                                        "confidence": 0.9949579
+                                                    }, 
+                                                    {
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "y": 55, 
+                                                                    "x": 221
+                                                                }, 
+                                                                {
+                                                                    "y": 55, 
+                                                                    "x": 230
+                                                                }, 
+                                                                {
+                                                                    "y": 73, 
+                                                                    "x": 230
+                                                                }, 
+                                                                {
+                                                                    "y": 73, 
+                                                                    "x": 221
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        "text": "s", 
+                                                        "confidence": 0.9876337
+                                                    }, 
+                                                    {
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "y": 55, 
+                                                                    "x": 233
+                                                                }, 
+                                                                {
+                                                                    "y": 55, 
+                                                                    "x": 242
+                                                                }, 
+                                                                {
+                                                                    "y": 73, 
+                                                                    "x": 242
+                                                                }, 
+                                                                {
+                                                                    "y": 73, 
+                                                                    "x": 233
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        "text": "s", 
+                                                        "confidence": 0.9795, 
+                                                        "property": {
+                                                            "detectedBreak": {
+                                                                "type": "SPACE"
+                                                            }
+                                                        }
+                                                    }
+                                                ], 
+                                                "confidence": 0.98335016, 
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "en", 
+                                                            "confidence": 1
+                                                        }
+                                                    ]
+                                                }
+                                            }, 
+                                            {
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "y": 55, 
+                                                            "x": 257
+                                                        }, 
+                                                        {
+                                                            "y": 55, 
+                                                            "x": 266
+                                                        }, 
+                                                        {
+                                                            "y": 73, 
+                                                            "x": 266
+                                                        }, 
+                                                        {
+                                                            "y": 73, 
+                                                            "x": 257
+                                                        }
+                                                    ]
+                                                }, 
+                                                "symbols": [
+                                                    {
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "y": 55, 
+                                                                    "x": 257
+                                                                }, 
+                                                                {
+                                                                    "y": 55, 
+                                                                    "x": 266
+                                                                }, 
+                                                                {
+                                                                    "y": 73, 
+                                                                    "x": 266
+                                                                }, 
+                                                                {
+                                                                    "y": 73, 
+                                                                    "x": 257
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        "text": "{", 
+                                                        "confidence": 0.9768875, 
+                                                        "property": {
+                                                            "detectedBreak": {
+                                                                "type": "LINE_BREAK"
+                                                            }
+                                                        }
+                                                    }
+                                                ], 
+                                                "confidence": 0.9768875, 
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "en", 
+                                                            "confidence": 1
+                                                        }
+                                                    ]
+                                                }
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }, 
+                            {
+                                "boundingBox": {
+                                    "vertices": [
+                                        {
+                                            "y": 178, 
+                                            "x": 1
+                                        }, 
+                                        {
+                                            "y": 178, 
+                                            "x": 15
+                                        }, 
+                                        {
+                                            "y": 197, 
+                                            "x": 14
+                                        }, 
+                                        {
+                                            "y": 197
+                                        }
+                                    ]
+                                }, 
+                                "blockType": "TEXT", 
+                                "confidence": 0.97088796, 
+                                "paragraphs": [
+                                    {
+                                        "boundingBox": {
+                                            "vertices": [
+                                                {
+                                                    "y": 178, 
+                                                    "x": 1
+                                                }, 
+                                                {
+                                                    "y": 178, 
+                                                    "x": 15
+                                                }, 
+                                                {
+                                                    "y": 197, 
+                                                    "x": 14
+                                                }, 
+                                                {
+                                                    "y": 197
+                                                }
+                                            ]
+                                        }, 
+                                        "confidence": 0.97088796, 
+                                        "words": [
+                                            {
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "y": 178, 
+                                                            "x": 1
+                                                        }, 
+                                                        {
+                                                            "y": 178, 
+                                                            "x": 15
+                                                        }, 
+                                                        {
+                                                            "y": 197, 
+                                                            "x": 14
+                                                        }, 
+                                                        {
+                                                            "y": 197
+                                                        }
+                                                    ]
+                                                }, 
+                                                "symbols": [
+                                                    {
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "y": 178, 
+                                                                    "x": 1
+                                                                }, 
+                                                                {
+                                                                    "y": 178, 
+                                                                    "x": 15
+                                                                }, 
+                                                                {
+                                                                    "y": 197, 
+                                                                    "x": 14
+                                                                }, 
+                                                                {
+                                                                    "y": 197
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        "text": "}", 
+                                                        "confidence": 0.97088796, 
+                                                        "property": {
+                                                            "detectedBreak": {
+                                                                "type": "LINE_BREAK"
+                                                            }
+                                                        }
+                                                    }
+                                                ], 
+                                                "confidence": 0.97088796
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }, 
+                            {
+                                "boundingBox": {
+                                    "vertices": [
+                                        {
+                                            "y": 79, 
+                                            "x": 49
+                                        }, 
+                                        {
+                                            "y": 79, 
+                                            "x": 532
+                                        }, 
+                                        {
+                                            "y": 148, 
+                                            "x": 532
+                                        }, 
+                                        {
+                                            "y": 148, 
+                                            "x": 49
+                                        }
+                                    ]
+                                }, 
+                                "blockType": "TEXT", 
+                                "confidence": 0.98105264, 
+                                "paragraphs": [
+                                    {
+                                        "boundingBox": {
+                                            "vertices": [
+                                                {
+                                                    "y": 79, 
+                                                    "x": 53
+                                                }, 
+                                                {
+                                                    "y": 79, 
+                                                    "x": 532
+                                                }, 
+                                                {
+                                                    "y": 99, 
+                                                    "x": 532
+                                                }, 
+                                                {
+                                                    "y": 99, 
+                                                    "x": 53
+                                                }
+                                            ]
+                                        }, 
+                                        "confidence": 0.9812291, 
+                                        "words": [
+                                            {
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "y": 79, 
+                                                            "x": 53
+                                                        }, 
+                                                        {
+                                                            "y": 79, 
+                                                            "x": 122
+                                                        }, 
+                                                        {
+                                                            "y": 99, 
+                                                            "x": 122
+                                                        }, 
+                                                        {
+                                                            "y": 99, 
+                                                            "x": 53
+                                                        }
+                                                    ]
+                                                }, 
+                                                "symbols": [
+                                                    {
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "y": 79, 
+                                                                    "x": 53
+                                                                }, 
+                                                                {
+                                                                    "y": 79, 
+                                                                    "x": 62
+                                                                }, 
+                                                                {
+                                                                    "y": 99, 
+                                                                    "x": 62
+                                                                }, 
+                                                                {
+                                                                    "y": 99, 
+                                                                    "x": 53
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        "text": "p", 
+                                                        "confidence": 0.9654069
+                                                    }, 
+                                                    {
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "y": 79, 
+                                                                    "x": 64
+                                                                }, 
+                                                                {
+                                                                    "y": 79, 
+                                                                    "x": 73
+                                                                }, 
+                                                                {
+                                                                    "y": 99, 
+                                                                    "x": 73
+                                                                }, 
+                                                                {
+                                                                    "y": 99, 
+                                                                    "x": 64
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        "text": "u", 
+                                                        "confidence": 0.9733622
+                                                    }, 
+                                                    {
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "y": 79, 
+                                                                    "x": 77
+                                                                }, 
+                                                                {
+                                                                    "y": 79, 
+                                                                    "x": 86
+                                                                }, 
+                                                                {
+                                                                    "y": 99, 
+                                                                    "x": 86
+                                                                }, 
+                                                                {
+                                                                    "y": 99, 
+                                                                    "x": 77
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        "text": "b", 
+                                                        "confidence": 0.99322796
+                                                    }, 
+                                                    {
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "y": 79, 
+                                                                    "x": 88
+                                                                }, 
+                                                                {
+                                                                    "y": 79, 
+                                                                    "x": 97
+                                                                }, 
+                                                                {
+                                                                    "y": 99, 
+                                                                    "x": 97
+                                                                }, 
+                                                                {
+                                                                    "y": 99, 
+                                                                    "x": 88
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        "text": "l", 
+                                                        "confidence": 0.98396
+                                                    }, 
+                                                    {
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "y": 79, 
+                                                                    "x": 100
+                                                                }, 
+                                                                {
+                                                                    "y": 79, 
+                                                                    "x": 108
+                                                                }, 
+                                                                {
+                                                                    "y": 99, 
+                                                                    "x": 108
+                                                                }, 
+                                                                {
+                                                                    "y": 99, 
+                                                                    "x": 100
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        "text": "i", 
+                                                        "confidence": 0.9854866
+                                                    }, 
+                                                    {
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "y": 79, 
+                                                                    "x": 111
+                                                                }, 
+                                                                {
+                                                                    "y": 79, 
+                                                                    "x": 122
+                                                                }, 
+                                                                {
+                                                                    "y": 99, 
+                                                                    "x": 122
+                                                                }, 
+                                                                {
+                                                                    "y": 99, 
+                                                                    "x": 111
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        "text": "c", 
+                                                        "confidence": 0.72177976, 
+                                                        "property": {
+                                                            "detectedBreak": {
+                                                                "type": "SPACE"
+                                                            }
+                                                        }
+                                                    }
+                                                ], 
+                                                "confidence": 0.9372039, 
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "en", 
+                                                            "confidence": 1
+                                                        }
+                                                    ]
+                                                }
+                                            }, 
+                                            {
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "y": 79, 
+                                                            "x": 136
+                                                        }, 
+                                                        {
+                                                            "y": 79, 
+                                                            "x": 206
+                                                        }, 
+                                                        {
+                                                            "y": 99, 
+                                                            "x": 206
+                                                        }, 
+                                                        {
+                                                            "y": 99, 
+                                                            "x": 136
+                                                        }
+                                                    ]
+                                                }, 
+                                                "symbols": [
+                                                    {
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "y": 79, 
+                                                                    "x": 136
+                                                                }, 
+                                                                {
+                                                                    "y": 79, 
+                                                                    "x": 144
+                                                                }, 
+                                                                {
+                                                                    "y": 99, 
+                                                                    "x": 144
+                                                                }, 
+                                                                {
+                                                                    "y": 99, 
+                                                                    "x": 136
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        "text": "s", 
+                                                        "confidence": 0.9858907
+                                                    }, 
+                                                    {
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "y": 79, 
+                                                                    "x": 149
+                                                                }, 
+                                                                {
+                                                                    "y": 79, 
+                                                                    "x": 157
+                                                                }, 
+                                                                {
+                                                                    "y": 99, 
+                                                                    "x": 157
+                                                                }, 
+                                                                {
+                                                                    "y": 99, 
+                                                                    "x": 149
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        "text": "t", 
+                                                        "confidence": 0.99746096
+                                                    }, 
+                                                    {
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "y": 79, 
+                                                                    "x": 160
+                                                                }, 
+                                                                {
+                                                                    "y": 79, 
+                                                                    "x": 170
+                                                                }, 
+                                                                {
+                                                                    "y": 99, 
+                                                                    "x": 170
+                                                                }, 
+                                                                {
+                                                                    "y": 99, 
+                                                                    "x": 160
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        "text": "a", 
+                                                        "confidence": 0.999041
+                                                    }, 
+                                                    {
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "y": 79, 
+                                                                    "x": 173
+                                                                }, 
+                                                                {
+                                                                    "y": 79, 
+                                                                    "x": 182
+                                                                }, 
+                                                                {
+                                                                    "y": 99, 
+                                                                    "x": 182
+                                                                }, 
+                                                                {
+                                                                    "y": 99, 
+                                                                    "x": 173
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        "text": "t", 
+                                                        "confidence": 0.9990922
+                                                    }, 
+                                                    {
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "y": 79, 
+                                                                    "x": 186
+                                                                }, 
+                                                                {
+                                                                    "y": 79, 
+                                                                    "x": 194
+                                                                }, 
+                                                                {
+                                                                    "y": 99, 
+                                                                    "x": 194
+                                                                }, 
+                                                                {
+                                                                    "y": 99, 
+                                                                    "x": 186
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        "text": "i", 
+                                                        "confidence": 0.9981281
+                                                    }, 
+                                                    {
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "y": 79, 
+                                                                    "x": 197
+                                                                }, 
+                                                                {
+                                                                    "y": 79, 
+                                                                    "x": 206
+                                                                }, 
+                                                                {
+                                                                    "y": 99, 
+                                                                    "x": 206
+                                                                }, 
+                                                                {
+                                                                    "y": 99, 
+                                                                    "x": 197
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        "text": "c", 
+                                                        "confidence": 0.99750507, 
+                                                        "property": {
+                                                            "detectedBreak": {
+                                                                "type": "SPACE"
+                                                            }
+                                                        }
+                                                    }
+                                                ], 
+                                                "confidence": 0.9961864, 
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "en", 
+                                                            "confidence": 1
+                                                        }
+                                                    ]
+                                                }
+                                            }, 
+                                            {
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "y": 79, 
+                                                            "x": 220
+                                                        }, 
+                                                        {
+                                                            "y": 79, 
+                                                            "x": 265
+                                                        }, 
+                                                        {
+                                                            "y": 99, 
+                                                            "x": 265
+                                                        }, 
+                                                        {
+                                                            "y": 99, 
+                                                            "x": 220
+                                                        }
+                                                    ]
+                                                }, 
+                                                "symbols": [
+                                                    {
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "y": 79, 
+                                                                    "x": 220
+                                                                }, 
+                                                                {
+                                                                    "y": 79, 
+                                                                    "x": 230
+                                                                }, 
+                                                                {
+                                                                    "y": 99, 
+                                                                    "x": 230
+                                                                }, 
+                                                                {
+                                                                    "y": 99, 
+                                                                    "x": 220
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        "text": "v", 
+                                                        "confidence": 0.99618536
+                                                    }, 
+                                                    {
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "y": 79, 
+                                                                    "x": 233
+                                                                }, 
+                                                                {
+                                                                    "y": 79, 
+                                                                    "x": 242
+                                                                }, 
+                                                                {
+                                                                    "y": 99, 
+                                                                    "x": 242
+                                                                }, 
+                                                                {
+                                                                    "y": 99, 
+                                                                    "x": 233
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        "text": "o", 
+                                                        "confidence": 0.99735105
+                                                    }, 
+                                                    {
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "y": 79, 
+                                                                    "x": 245
+                                                                }, 
+                                                                {
+                                                                    "y": 79, 
+                                                                    "x": 253
+                                                                }, 
+                                                                {
+                                                                    "y": 99, 
+                                                                    "x": 253
+                                                                }, 
+                                                                {
+                                                                    "y": 99, 
+                                                                    "x": 245
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        "text": "i", 
+                                                        "confidence": 0.99635196
+                                                    }, 
+                                                    {
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "y": 79, 
+                                                                    "x": 256
+                                                                }, 
+                                                                {
+                                                                    "y": 79, 
+                                                                    "x": 265
+                                                                }, 
+                                                                {
+                                                                    "y": 99, 
+                                                                    "x": 265
+                                                                }, 
+                                                                {
+                                                                    "y": 99, 
+                                                                    "x": 256
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        "text": "d", 
+                                                        "confidence": 0.9945119, 
+                                                        "property": {
+                                                            "detectedBreak": {
+                                                                "type": "SPACE"
+                                                            }
+                                                        }
+                                                    }
+                                                ], 
+                                                "confidence": 0.99610007, 
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "en", 
+                                                            "confidence": 1
+                                                        }
+                                                    ]
+                                                }
+                                            }, 
+                                            {
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "y": 79, 
+                                                            "x": 280
+                                                        }, 
+                                                        {
+                                                            "y": 79, 
+                                                            "x": 327
+                                                        }, 
+                                                        {
+                                                            "y": 99, 
+                                                            "x": 327
+                                                        }, 
+                                                        {
+                                                            "y": 99, 
+                                                            "x": 280
+                                                        }
+                                                    ]
+                                                }, 
+                                                "symbols": [
+                                                    {
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "y": 79, 
+                                                                    "x": 280
+                                                                }, 
+                                                                {
+                                                                    "y": 79, 
+                                                                    "x": 290
+                                                                }, 
+                                                                {
+                                                                    "y": 99, 
+                                                                    "x": 290
+                                                                }, 
+                                                                {
+                                                                    "y": 99, 
+                                                                    "x": 280
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        "text": "m", 
+                                                        "confidence": 0.9967501
+                                                    }, 
+                                                    {
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "y": 79, 
+                                                                    "x": 294
+                                                                }, 
+                                                                {
+                                                                    "y": 79, 
+                                                                    "x": 303
+                                                                }, 
+                                                                {
+                                                                    "y": 99, 
+                                                                    "x": 303
+                                                                }, 
+                                                                {
+                                                                    "y": 99, 
+                                                                    "x": 294
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        "text": "a", 
+                                                        "confidence": 0.9971482
+                                                    }, 
+                                                    {
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "y": 79, 
+                                                                    "x": 306
+                                                                }, 
+                                                                {
+                                                                    "y": 79, 
+                                                                    "x": 314
+                                                                }, 
+                                                                {
+                                                                    "y": 99, 
+                                                                    "x": 314
+                                                                }, 
+                                                                {
+                                                                    "y": 99, 
+                                                                    "x": 306
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        "text": "i", 
+                                                        "confidence": 0.9979944
+                                                    }, 
+                                                    {
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "y": 79, 
+                                                                    "x": 318
+                                                                }, 
+                                                                {
+                                                                    "y": 79, 
+                                                                    "x": 327
+                                                                }, 
+                                                                {
+                                                                    "y": 99, 
+                                                                    "x": 327
+                                                                }, 
+                                                                {
+                                                                    "y": 99, 
+                                                                    "x": 318
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        "text": "n", 
+                                                        "confidence": 0.99602276
+                                                    }
+                                                ], 
+                                                "confidence": 0.9969789, 
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "en", 
+                                                            "confidence": 1
+                                                        }
+                                                    ]
+                                                }
+                                            }, 
+                                            {
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "y": 79, 
+                                                            "x": 331
+                                                        }, 
+                                                        {
+                                                            "y": 79, 
+                                                            "x": 336
+                                                        }, 
+                                                        {
+                                                            "y": 99, 
+                                                            "x": 336
+                                                        }, 
+                                                        {
+                                                            "y": 99, 
+                                                            "x": 331
+                                                        }
+                                                    ]
+                                                }, 
+                                                "symbols": [
+                                                    {
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "y": 79, 
+                                                                    "x": 331
+                                                                }, 
+                                                                {
+                                                                    "y": 79, 
+                                                                    "x": 336
+                                                                }, 
+                                                                {
+                                                                    "y": 99, 
+                                                                    "x": 336
+                                                                }, 
+                                                                {
+                                                                    "y": 99, 
+                                                                    "x": 331
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        "text": "(", 
+                                                        "confidence": 0.99773115
+                                                    }
+                                                ], 
+                                                "confidence": 0.99773115, 
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "en", 
+                                                            "confidence": 1
+                                                        }
+                                                    ]
+                                                }
+                                            }, 
+                                            {
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "y": 79, 
+                                                            "x": 342
+                                                        }, 
+                                                        {
+                                                            "y": 79, 
+                                                            "x": 410
+                                                        }, 
+                                                        {
+                                                            "y": 99, 
+                                                            "x": 410
+                                                        }, 
+                                                        {
+                                                            "y": 99, 
+                                                            "x": 342
+                                                        }
+                                                    ]
+                                                }, 
+                                                "symbols": [
+                                                    {
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "y": 79, 
+                                                                    "x": 342
+                                                                }, 
+                                                                {
+                                                                    "y": 79, 
+                                                                    "x": 350
+                                                                }, 
+                                                                {
+                                                                    "y": 99, 
+                                                                    "x": 350
+                                                                }, 
+                                                                {
+                                                                    "y": 99, 
+                                                                    "x": 342
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        "text": "S", 
+                                                        "confidence": 0.99815595
+                                                    }, 
+                                                    {
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "y": 79, 
+                                                                    "x": 354
+                                                                }, 
+                                                                {
+                                                                    "y": 79, 
+                                                                    "x": 361
+                                                                }, 
+                                                                {
+                                                                    "y": 99, 
+                                                                    "x": 361
+                                                                }, 
+                                                                {
+                                                                    "y": 99, 
+                                                                    "x": 354
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        "text": "t", 
+                                                        "confidence": 0.9995698
+                                                    }, 
+                                                    {
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "y": 79, 
+                                                                    "x": 366
+                                                                }, 
+                                                                {
+                                                                    "y": 79, 
+                                                                    "x": 375
+                                                                }, 
+                                                                {
+                                                                    "y": 99, 
+                                                                    "x": 375
+                                                                }, 
+                                                                {
+                                                                    "y": 99, 
+                                                                    "x": 366
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        "text": "r", 
+                                                        "confidence": 0.99924946
+                                                    }, 
+                                                    {
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "y": 79, 
+                                                                    "x": 378
+                                                                }, 
+                                                                {
+                                                                    "y": 79, 
+                                                                    "x": 386
+                                                                }, 
+                                                                {
+                                                                    "y": 99, 
+                                                                    "x": 386
+                                                                }, 
+                                                                {
+                                                                    "y": 99, 
+                                                                    "x": 378
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        "text": "i", 
+                                                        "confidence": 0.9993279
+                                                    }, 
+                                                    {
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "y": 79, 
+                                                                    "x": 390
+                                                                }, 
+                                                                {
+                                                                    "y": 79, 
+                                                                    "x": 399
+                                                                }, 
+                                                                {
+                                                                    "y": 99, 
+                                                                    "x": 399
+                                                                }, 
+                                                                {
+                                                                    "y": 99, 
+                                                                    "x": 390
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        "text": "n", 
+                                                        "confidence": 0.99753445
+                                                    }, 
+                                                    {
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "y": 79, 
+                                                                    "x": 401
+                                                                }, 
+                                                                {
+                                                                    "y": 79, 
+                                                                    "x": 410
+                                                                }, 
+                                                                {
+                                                                    "y": 99, 
+                                                                    "x": 410
+                                                                }, 
+                                                                {
+                                                                    "y": 99, 
+                                                                    "x": 401
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        "text": "g", 
+                                                        "confidence": 0.98591626
+                                                    }
+                                                ], 
+                                                "confidence": 0.99662566, 
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "en", 
+                                                            "confidence": 1
+                                                        }
+                                                    ]
+                                                }
+                                            }, 
+                                            {
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "y": 79, 
+                                                            "x": 416
+                                                        }, 
+                                                        {
+                                                            "y": 79, 
+                                                            "x": 419
+                                                        }, 
+                                                        {
+                                                            "y": 99, 
+                                                            "x": 419
+                                                        }, 
+                                                        {
+                                                            "y": 99, 
+                                                            "x": 416
+                                                        }
+                                                    ]
+                                                }, 
+                                                "symbols": [
+                                                    {
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "y": 79, 
+                                                                    "x": 416
+                                                                }, 
+                                                                {
+                                                                    "y": 79, 
+                                                                    "x": 419
+                                                                }, 
+                                                                {
+                                                                    "y": 99, 
+                                                                    "x": 419
+                                                                }, 
+                                                                {
+                                                                    "y": 99, 
+                                                                    "x": 416
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        "text": "[", 
+                                                        "confidence": 0.96583223
+                                                    }
+                                                ], 
+                                                "confidence": 0.96583223, 
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "en", 
+                                                            "confidence": 1
+                                                        }
+                                                    ]
+                                                }
+                                            }, 
+                                            {
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "y": 79, 
+                                                            "x": 427
+                                                        }, 
+                                                        {
+                                                            "y": 79, 
+                                                            "x": 432
+                                                        }, 
+                                                        {
+                                                            "y": 99, 
+                                                            "x": 432
+                                                        }, 
+                                                        {
+                                                            "y": 99, 
+                                                            "x": 427
+                                                        }
+                                                    ]
+                                                }, 
+                                                "symbols": [
+                                                    {
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "y": 79, 
+                                                                    "x": 427
+                                                                }, 
+                                                                {
+                                                                    "y": 79, 
+                                                                    "x": 432
+                                                                }, 
+                                                                {
+                                                                    "y": 99, 
+                                                                    "x": 432
+                                                                }, 
+                                                                {
+                                                                    "y": 99, 
+                                                                    "x": 427
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        "text": "]", 
+                                                        "confidence": 0.9172137, 
+                                                        "property": {
+                                                            "detectedBreak": {
+                                                                "type": "SPACE"
+                                                            }
+                                                        }
+                                                    }
+                                                ], 
+                                                "confidence": 0.9172137, 
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "en", 
+                                                            "confidence": 1
+                                                        }
+                                                    ]
+                                                }
+                                            }, 
+                                            {
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "y": 79, 
+                                                            "x": 450
+                                                        }, 
+                                                        {
+                                                            "y": 79, 
+                                                            "x": 494
+                                                        }, 
+                                                        {
+                                                            "y": 99, 
+                                                            "x": 494
+                                                        }, 
+                                                        {
+                                                            "y": 99, 
+                                                            "x": 450
+                                                        }
+                                                    ]
+                                                }, 
+                                                "symbols": [
+                                                    {
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "y": 79, 
+                                                                    "x": 450
+                                                                }, 
+                                                                {
+                                                                    "y": 79, 
+                                                                    "x": 458
+                                                                }, 
+                                                                {
+                                                                    "y": 99, 
+                                                                    "x": 458
+                                                                }, 
+                                                                {
+                                                                    "y": 99, 
+                                                                    "x": 450
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        "text": "a", 
+                                                        "confidence": 0.9957304
+                                                    }, 
+                                                    {
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "y": 79, 
+                                                                    "x": 462
+                                                                }, 
+                                                                {
+                                                                    "y": 79, 
+                                                                    "x": 470
+                                                                }, 
+                                                                {
+                                                                    "y": 99, 
+                                                                    "x": 470
+                                                                }, 
+                                                                {
+                                                                    "y": 99, 
+                                                                    "x": 462
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        "text": "r", 
+                                                        "confidence": 0.99857473
+                                                    }, 
+                                                    {
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "y": 79, 
+                                                                    "x": 474
+                                                                }, 
+                                                                {
+                                                                    "y": 79, 
+                                                                    "x": 483
+                                                                }, 
+                                                                {
+                                                                    "y": 99, 
+                                                                    "x": 483
+                                                                }, 
+                                                                {
+                                                                    "y": 99, 
+                                                                    "x": 474
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        "text": "g", 
+                                                        "confidence": 0.99721444
+                                                    }, 
+                                                    {
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "y": 79, 
+                                                                    "x": 486
+                                                                }, 
+                                                                {
+                                                                    "y": 79, 
+                                                                    "x": 494
+                                                                }, 
+                                                                {
+                                                                    "y": 99, 
+                                                                    "x": 494
+                                                                }, 
+                                                                {
+                                                                    "y": 99, 
+                                                                    "x": 486
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        "text": "s", 
+                                                        "confidence": 0.99746376
+                                                    }
+                                                ], 
+                                                "confidence": 0.99724585, 
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "en", 
+                                                            "confidence": 1
+                                                        }
+                                                    ]
+                                                }
+                                            }, 
+                                            {
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "y": 79, 
+                                                            "x": 499
+                                                        }, 
+                                                        {
+                                                            "y": 79, 
+                                                            "x": 505
+                                                        }, 
+                                                        {
+                                                            "y": 99, 
+                                                            "x": 505
+                                                        }, 
+                                                        {
+                                                            "y": 99, 
+                                                            "x": 499
+                                                        }
+                                                    ]
+                                                }, 
+                                                "symbols": [
+                                                    {
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "y": 79, 
+                                                                    "x": 499
+                                                                }, 
+                                                                {
+                                                                    "y": 79, 
+                                                                    "x": 505
+                                                                }, 
+                                                                {
+                                                                    "y": 99, 
+                                                                    "x": 505
+                                                                }, 
+                                                                {
+                                                                    "y": 99, 
+                                                                    "x": 499
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        "text": ")", 
+                                                        "confidence": 0.9913826, 
+                                                        "property": {
+                                                            "detectedBreak": {
+                                                                "type": "SPACE"
+                                                            }
+                                                        }
+                                                    }
+                                                ], 
+                                                "confidence": 0.9913826, 
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "en", 
+                                                            "confidence": 1
+                                                        }
+                                                    ]
+                                                }
+                                            }, 
+                                            {
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "y": 79, 
+                                                            "x": 521
+                                                        }, 
+                                                        {
+                                                            "y": 79, 
+                                                            "x": 532
+                                                        }, 
+                                                        {
+                                                            "y": 99, 
+                                                            "x": 532
+                                                        }, 
+                                                        {
+                                                            "y": 99, 
+                                                            "x": 521
+                                                        }
+                                                    ]
+                                                }, 
+                                                "symbols": [
+                                                    {
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "y": 79, 
+                                                                    "x": 521
+                                                                }, 
+                                                                {
+                                                                    "y": 79, 
+                                                                    "x": 532
+                                                                }, 
+                                                                {
+                                                                    "y": 99, 
+                                                                    "x": 532
+                                                                }, 
+                                                                {
+                                                                    "y": 99, 
+                                                                    "x": 521
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        "text": "{", 
+                                                        "confidence": 0.9294656, 
+                                                        "property": {
+                                                            "detectedBreak": {
+                                                                "type": "LINE_BREAK"
+                                                            }
+                                                        }
+                                                    }
+                                                ], 
+                                                "confidence": 0.9294656, 
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "en", 
+                                                            "confidence": 1
+                                                        }
+                                                    ]
+                                                }
+                                            }
+                                        ]
+                                    }, 
+                                    {
+                                        "boundingBox": {
+                                            "vertices": [
+                                                {
+                                                    "y": 129, 
+                                                    "x": 49
+                                                }, 
+                                                {
+                                                    "y": 129, 
+                                                    "x": 65
+                                                }, 
+                                                {
+                                                    "y": 148, 
+                                                    "x": 65
+                                                }, 
+                                                {
+                                                    "y": 148, 
+                                                    "x": 49
+                                                }
+                                            ]
+                                        }, 
+                                        "confidence": 0.9748763, 
+                                        "words": [
+                                            {
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "y": 129, 
+                                                            "x": 49
+                                                        }, 
+                                                        {
+                                                            "y": 129, 
+                                                            "x": 65
+                                                        }, 
+                                                        {
+                                                            "y": 148, 
+                                                            "x": 65
+                                                        }, 
+                                                        {
+                                                            "y": 148, 
+                                                            "x": 49
+                                                        }
+                                                    ]
+                                                }, 
+                                                "symbols": [
+                                                    {
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "y": 129, 
+                                                                    "x": 49
+                                                                }, 
+                                                                {
+                                                                    "y": 129, 
+                                                                    "x": 65
+                                                                }, 
+                                                                {
+                                                                    "y": 148, 
+                                                                    "x": 65
+                                                                }, 
+                                                                {
+                                                                    "y": 148, 
+                                                                    "x": 49
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        "text": "}", 
+                                                        "confidence": 0.9748763, 
+                                                        "property": {
+                                                            "detectedBreak": {
+                                                                "type": "LINE_BREAK"
+                                                            }
+                                                        }
+                                                    }
+                                                ], 
+                                                "confidence": 0.9748763
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ], 
+                        "height": 444
+                    }
+                ]
+            }
+        }
+    ]
+}
